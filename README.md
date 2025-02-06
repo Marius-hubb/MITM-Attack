@@ -1,4 +1,4 @@
-<h1>Perform a Man-in-the-Middle (MITM) Attack using Cain & Abel</h1>
+<h1>Perform MITM Attack using Cain & Abel</h1>
 
  ## [Video Demonstration](https://drive.google.com/file/d/1TvBOU8voSpZqPwOkw07pd52daGjEmmWu/view?usp=sharing)
 
